@@ -14,7 +14,7 @@ function formulaire($prenom , $nom , $age , $sexe)
 		<h1> Khadim's formulaire creator MODIFIERRRRRws you know </h1>
 	</div>
 	<div class="kha">
-		<u><p>Formulaire d'inscription a cafe gui</p></u>
+		<u><p>Formulaire d'inscription a cafe gui navbaarrrr</p></u>
 	</div>
 	<br>
 	<br>
